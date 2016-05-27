@@ -1,0 +1,16 @@
+{
+  "name": "endpoint-hopper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.13.3",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0"
+  }
+}
